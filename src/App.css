@@ -8,6 +8,10 @@ section {
   border-radius: 12px;
 }
 
+.loading{
+  color: white;
+}
+
 button {
   font: inherit;
   cursor: pointer;
